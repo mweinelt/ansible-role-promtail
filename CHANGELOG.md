@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.11.1](https://github.com/patrickjahns/ansible-role-promtail/tree/1.11.1) (2021-08-07)
+
+[Full Changelog](https://github.com/patrickjahns/ansible-role-promtail/compare/1.11.0...1.11.1)
+
+**Closed issues:**
+
+- Remove `run\_once: True` in preflight [\#59](https://github.com/patrickjahns/ansible-role-promtail/issues/59)
+
+**Merged pull requests:**
+
+- ci: test with 3.x and 4.x ansible versions [\#61](https://github.com/patrickjahns/ansible-role-promtail/pull/61) ([patrickjahns](https://github.com/patrickjahns))
+
 ## [1.11.0](https://github.com/patrickjahns/ansible-role-promtail/tree/1.11.0) (2021-04-06)
 
 [Full Changelog](https://github.com/patrickjahns/ansible-role-promtail/compare/1.10.0...1.11.0)
